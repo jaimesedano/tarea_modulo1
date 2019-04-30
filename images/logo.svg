@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="640"
+   height="480"
+   version="1.1"
+   id="svg17"
+   sodipodi:docname="logo.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata23">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs21" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     id="namedview19"
+     showgrid="false"
+     inkscape:zoom="0.49166667"
+     inkscape:cx="320"
+     inkscape:cy="240"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg17" />
+  <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+  <g
+     class="layer"
+     id="g15"
+     transform="matrix(1.2240242,0,0,1.8857163,-77.740788,-93.901337)">
+    <title
+       id="title2">Layer 1</title>
+    <rect
+       height="30"
+       id="svg_1"
+       stroke-linecap="null"
+       stroke-linejoin="null"
+       width="133"
+       x="175.5"
+       y="101.5"
+       style="fill:#ff0000;stroke:#000000;stroke-width:5;stroke-dasharray:none" />
+    <rect
+       height="30"
+       id="svg_3"
+       stroke-linecap="null"
+       stroke-linejoin="null"
+       width="133"
+       x="336"
+       y="101"
+       style="fill:#ff0000;stroke:#000000;stroke-width:5;stroke-dasharray:none" />
+    <rect
+       height="71"
+       id="svg_4"
+       stroke-linecap="null"
+       stroke-linejoin="null"
+       width="29"
+       x="242.5"
+       y="131.5"
+       style="fill:#ff0000;stroke:#000000;stroke-width:5;stroke-dasharray:none" />
+    <rect
+       height="71"
+       id="svg_6"
+       stroke-linecap="null"
+       stroke-linejoin="null"
+       width="29"
+       x="396"
+       y="130.5"
+       style="fill:#ff0000;stroke:#000000;stroke-width:5;stroke-dasharray:none" />
+    <rect
+       height="29"
+       id="svg_8"
+       stroke-linecap="null"
+       stroke-linejoin="null"
+       width="58"
+       x="213.5"
+       y="203.5"
+       style="fill:#ff0000;stroke:#000000;stroke-width:5;stroke-dasharray:none" />
+    <rect
+       height="29"
+       id="svg_9"
+       stroke-linecap="null"
+       stroke-linejoin="null"
+       width="58"
+       x="367.5"
+       y="201.5"
+       style="fill:#ff0000;stroke:#000000;stroke-width:5;stroke-dasharray:none" />
+    <text
+       font-size="24"
+       id="svg_10"
+       stroke-linecap="null"
+       stroke-linejoin="null"
+       x="242.5"
+       xml:space="preserve"
+       y="255.5"
+       style="font-size:24px;font-family:serif;text-anchor:middle;fill:#0000ff;stroke:#000000;stroke-width:0;stroke-dasharray:none">Jaime</text>
+    <text
+       font-size="24"
+       id="svg_11"
+       stroke-linecap="null"
+       stroke-linejoin="null"
+       x="396.5"
+       xml:space="preserve"
+       y="254.5"
+       style="font-size:24px;font-family:serif;text-anchor:middle;fill:#0000ff;stroke:#000000;stroke-width:0;stroke-dasharray:none">Junior</text>
+    <ellipse
+       cx="324.5"
+       cy="179.5"
+       id="svg_15"
+       rx="253"
+       ry="118"
+       stroke-linecap="null"
+       stroke-linejoin="null"
+       style="fill:none;stroke:#000000;stroke-width:5;stroke-dasharray:none" />
+    <polygon
+       cx="109.5"
+       cy="370.5"
+       id="svg_19"
+       orient="point"
+       point="5"
+       points="332.8455,174.86145 338.48469,193.50104 322.5,182.3779 306.51531,193.50104 312.1545,174.86145 296.63624,163.09634 316.10612,162.69958 322.5,144.30524 328.89388,162.69958 322.5,144.30524 328.89388,162.69958 348.36377,163.09634 "
+       r="27.194771"
+       r2="10.877908"
+       shape="star"
+       strokeWidth="5"
+       strokecolor="#000000"
+       style="fill:#ff0000;stroke:#000000;stroke-width:5" />
+    <text
+       font-size="24"
+       id="svg_20"
+       stroke-linecap="null"
+       stroke-linejoin="null"
+       x="321.5"
+       xml:space="preserve"
+       y="281.5"
+       style="font-size:24px;font-family:serif;text-anchor:middle;fill:#0000ff;stroke:#000000;stroke-width:0;stroke-dasharray:none">Ingenieria</text>
+  </g>
+</svg>
